@@ -1,5 +1,7 @@
 # IBM Data Science Professional Certificate-Appiled-Data-Science-Capstone-Project-Winning-Space-Race-Using-Data-Science
 
+In this project I built an end-to-end machine learning pipeline in Azure ML Studio. This project uses the Adult Income Census data set to train a model to predict an individual's income. It predicts whether an individual's annual income is greater than or less than $50,000. The estimator used in this project is a Two-Class Boosted Decision Tree classifier. Some of the features used to train the model are age, education, occupation, etc. Once I have scored and evaluated the model on the test data, I deployed the trained model as an Azure Machine Learning web service. In just under an hour, I was able to send new data to the web service API and receive the resulting predictions.
+
 ![Screenshot (41)](https://user-images.githubusercontent.com/86102231/136998856-c7c30dee-c5e7-46e9-9290-9f3ec89f1cc4.png)
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/86102231/137000408-8d92181b-15e5-48c5-a11a-0bbbdc96d911.png)
