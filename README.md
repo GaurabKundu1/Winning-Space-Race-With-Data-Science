@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate-Appiled-Data-Science-Capstone-Project-Winning-Space-Race-Using-Data-Science
 
-In this project I built an end-to-end machine learning pipeline in Azure ML Studio. This project uses the Adult Income Census data set to train a model to predict an individual's income. It predicts whether an individual's annual income is greater than or less than $50,000. The estimator used in this project is a Two-Class Boosted Decision Tree classifier. Some of the features used to train the model are age, education, occupation, etc. Once I have scored and evaluated the model on the test data, I deployed the trained model as an Azure Machine Learning web service. In just under an hour, I was able to send new data to the web service API and receive the resulting predictions.
+In this project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/86102231/136998856-c7c30dee-c5e7-46e9-9290-9f3ec89f1cc4.png)
 
