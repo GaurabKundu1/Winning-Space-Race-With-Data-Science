@@ -1,5 +1,5 @@
 # IBM Data Science Professional Certificate-Appiled-Data-Science-Capstone-Project-Winning-Space-Race-Using-Data-Science
-![Screenshot (57)](https://user-images.githubusercontent.com/86102231/138230135-0e6d0c05-a43e-4829-929f-79cfea84ac0b.png)
+
 
 
 In this project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
@@ -83,3 +83,5 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 ![Screenshot (59)](https://user-images.githubusercontent.com/86102231/137285488-4484b062-2f9a-4441-bf98-593a595686bc.png)
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/86102231/137285497-0f5a8615-35f8-4cb8-9042-487b10071a2d.png)
+
+![Screenshot (57)](https://user-images.githubusercontent.com/86102231/138230135-0e6d0c05-a43e-4829-929f-79cfea84ac0b.png)
