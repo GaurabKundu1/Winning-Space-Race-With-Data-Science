@@ -16,7 +16,7 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 |          4          |                       Hardware and Software Requirments                         |
 |          5          |                                  Methodology                                    |
 |          6          |                  Insights Drawn from Exploratory Data Analysis                  |
-|          7          |                                                                                 |
-|          8          |                        Launch Sites Proximities Analysis                        |
+|          7          |                        Launch Sites Proximities Analysis                        |
+|          8          |                       Build A Dashboard with Plotly Dash                        |
 |          9          |                       Predictive Analysis Classification                        |
 |          10         |                                  Conclusion                                     |
