@@ -86,6 +86,6 @@ The data is collected by two main approaches:
 
 ### Data Collection – SpaceX API
 
-We’ll becollecting lunchdata from SpaceX API, First we request lunch data from SpaceX API using the GET command (requests.get), then we create a pandas dataframe from the response, After that we make several sub requests to get more detailed and consistent information about the IDs stored in the dataframe. 
+We’ll be collecting launch data from SpaceX API, First we request launch data from SpaceX API using the GET command (requests.get), then we create a pandas dataframe from the response, After that we make several sub requests to get more detailed and consistent information about the IDs stored in the dataframe. 
 
 With the help of some helper functions, we save the responses into a dictionary, and then we transform it into a dataframe, which is our data set.
