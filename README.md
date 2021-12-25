@@ -83,3 +83,5 @@ The data is collected by two main approaches:
 1. The SpaceX API
 
 2. Web scrapping
+
+### Data Collection – SpaceX API
