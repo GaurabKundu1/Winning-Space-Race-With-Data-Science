@@ -36,11 +36,12 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 
 # Executive Summary
 
-The report focus on collecting data by web scrapping or API calls, perform EDA and visualize the data before building a classification machine learning models to predict whether the landing will succeed or not.
+The project is focused on collecting data by web scrapping or API calls, perform EDA and visualize the data before building a classification machine learning models to predict whether the landing will succeed or not.
 
-The result are the plots that show relation of two variables, dashboard, map, and the best classification model is decision tree to predict first stage will be successful or not.
+The results are the plots that show relation of two variables, dashboard, map, and the best classification model is decision tree to predict first stage will be successful or not.
 
 
 # Introduction
 
 In the age of commercial space travelling, SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.
+In this Data Science project we will predict if the Falcon 9 first stage will land successfully, therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
