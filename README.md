@@ -10,7 +10,13 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 
 |       SL. NO        |                                    Outline                                      |
 | :-----------------: | :-----------------------------------------------------------------------------: |
-|          1          | <pre>"2020-04-14" => "14 April, 2020"<br/><br/>"2021-04-14" => "14 April"</pre> |
-|          2          |   <pre>"2020-04-14" => "14/4/2020"<br/><br/>"2021-04-14" => "14/4/2021"</pre>   |
-|          3          |     <pre>"2020-04-14" => "2020.4.14"<br/><br/>"2021-04-14" => "4.14"</pre>      |
-|          4          |   <pre>"2020-04-14" => "Apr 14, 2020"<br/><br/>"2021-04-14" => "Apr 14"</pre>   |
+|          1          |                               Executive Summary                                 |
+|          2          |                                 Introduction                                    |
+|          3          |                                   Objective                                     |
+|          4          |                       Hardware and Software Requirments                         |
+|          5          |                                  Methodology                                    |
+|          6          |                  Insights Drawn from Exploratory Data Analysis                  |
+|          7          |                                                                                 |
+|          8          |                        Launch Sites Proximities Analysis                        |
+|          9          |                       Predictive Analysis Classification                        |
+|          10         |                                  Conclusion                                     |
