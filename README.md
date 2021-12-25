@@ -37,5 +37,6 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 # Executive Summary
 
 The report focus on collecting data by web scrapping or API calls, perform EDA and visualize the data before building a classification machine learning models to predict whether the landing will succeed or not.
-The result are the plots that show relation of two variables, dashboard, map, and the best classification model is decision tree to predict first stage will be successful or not
+
+The result are the plots that show relation of two variables, dashboard, map, and the best classification model is decision tree to predict first stage will be successful or not.
 
