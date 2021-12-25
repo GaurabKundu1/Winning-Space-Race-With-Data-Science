@@ -89,6 +89,7 @@ The data is collected by two main approaches:
 We’ll be collecting launch data from SpaceX API, First we request launch data from SpaceX API using the GET command (requests.get), then we create a pandas dataframe from the response, After that we make several sub requests to get more detailed and consistent information about the IDs stored in the dataframe. 
 
 With the help of some helper functions, we save the responses into a dictionary, and then we transform it into a dataframe, which is our data set.
+
 ![Screenshot (159)](https://user-images.githubusercontent.com/86102231/147389192-9446f2a8-80db-468a-afcf-1de89a327010.png)
 
 
