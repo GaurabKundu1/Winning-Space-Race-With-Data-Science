@@ -1,8 +1,8 @@
 # Winning-Space-Race-With-Data-Science
 
- <p align="center">
+
 ## GAURAB KUNDU 
- </p>
+
  
 ### Date: 12 th of October 2021  
 
