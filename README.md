@@ -50,16 +50,16 @@ In this Data Science project we will predict if the Falcon 9 first stage will la
 # Objective
 
 ## Background
-1 Reviewing Space X's success in making Falcon 9 rockets with very minimum costs.
+ Reviewing Space X's success in making Falcon 9 rockets with very minimum costs.
 
-2 We can analyze SpaceX's data to get the minimum cost to launch a successful rocket for our company.
+ We can analyze SpaceX's data to get the minimum cost to launch a successful rocket for our company.
 ## Problem
-1Predict whether the first stage land bases on features given.
+ Predict whether the first stage land bases on features given.
 
-2 Analyze the features that affect landing success.
+ Analyze the features that affect landing success.
 ## Question for Analysis
-1 Is the first stage will land based on features given?
+ Is the first stage will land based on features given?
 
-2 Is the features affect landing success?
+ Is the features affect landing success?
 
 
