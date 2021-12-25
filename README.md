@@ -1,6 +1,6 @@
 # Winning-Space-Race-With-Data-Science
 
-## GAURAB KUNDU <p align='center'>
+##  Author GAURAB KUNDU                 Date: 12 th of October 2021  <p align='center'>
   
 <a href = "https://www.linkedin.com/in/gaurab-kundu-020803/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/GaurabKundu6"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
