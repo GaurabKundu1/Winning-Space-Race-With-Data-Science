@@ -67,4 +67,12 @@ In this Data Science project we will predict if the Falcon 9 first stage will la
 # Hardware and Software Requirments
 
 ## Hardware
-In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a RAM of 8 GB and decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data.
+In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a RAM of 8 GB and decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data. 
+## Software
+We are going to use the following softwares in this project :
+
+Programming Language : [Python](https://www.python.org/)
+
+IDE : [Jupyter Notebook](https://jupyter.org/)
+
+Packages : Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, BeautifulSoop.
