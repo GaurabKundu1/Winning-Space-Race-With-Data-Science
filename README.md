@@ -74,9 +74,9 @@ Packages : [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFram
 # Methodology
 
 ## Data Collection
-The data set used in the project is the [SpaceX Lunch data](https://drive.google.com/file/d/1JsDQrujo-qdQPMIdjkXmkzmN8xQIQRig/view?usp=sharing).
+The data set used in the project is the [SpaceX Launch data](https://drive.google.com/file/d/1JsDQrujo-qdQPMIdjkXmkzmN8xQIQRig/view?usp=sharing).
 
-The data set contains information about different flights including date, lunch site, booster version and more.
+The data set contains information about different flights including date, launch site, booster version and more.
 
 The data is collected by two main approaches:
 
