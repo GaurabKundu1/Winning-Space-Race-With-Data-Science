@@ -32,3 +32,8 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 |          8          |                       Build A Dashboard with Plotly Dash                        |
 |          9          |                       Predictive Analysis Classification                        |
 |          10         |                                  Conclusion                                     |
+
+
+# Executive Summary
+
+The report focus on collecting data by web scrapping or API calls, perform EDA and visualize the data before building a classification machine learning models to predict whether the landing will succeed or not.
