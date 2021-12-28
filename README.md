@@ -84,7 +84,7 @@ The data is collected by two main approaches:
 
 1. The SpaceX API
 
-2. Web scrapping
+2. Web Scrapping
 
 ### Data Collection – SpaceX API
 
@@ -96,3 +96,9 @@ With the help of some helper functions, we save the responses into a dictionary,
 
 ### To see the code and step by step process of Data Collection using SpaceX API [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%201/Data%20Collection/jupyter-labs-spacex-data-collection-api.ipynb)
 
+### Data Collection - Web Scrapping
+
+We will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page. First we perform an HTTP GET( using requests.get command)method to request the Falcon9 Launch HTMLpage, as an HTTP response. Then we create a BeautifulSoup object from the HTML response, We extract the column names from the object and use it
+as dictionary keys.
+
+We parse the HTML tables and fill the dictionary keys with launch records from table rows, and finally we transform it into a dataframe.
