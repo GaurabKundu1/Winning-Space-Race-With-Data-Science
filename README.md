@@ -42,15 +42,15 @@ In this Data Science project we will predict if the Falcon 9 first stage will la
 
 # Objective
 
-## 1 Background
+## Background
  Reviewing Space X's success in making Falcon 9 rockets with very minimum costs.
 
  We can analyze SpaceX's data to get the minimum cost to launch a successful rocket for our company.
-## 2 Problem
+## Problem
  Predicting whether the first stage land bases on features given.
 
  Analyzing the features that affect landing success.
-## 3 Question for Analysis
+## Question for Analysis
  Will the first stage land based on features given?
 
  Will the features affect landing success?
@@ -58,9 +58,9 @@ In this Data Science project we will predict if the Falcon 9 first stage will la
 
 # Hardware and Software Requirments
 
-## 1 Hardware
+## Hardware
 In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a RAM of 8 GB and decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data. 
-## 2 Software
+## Software
 We are going to use IBM Watson Studio for this project.
 
 In case of local machine We are going to use the following softwares in this project :
@@ -74,7 +74,7 @@ Packages : [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFram
 
 # Methodology
 
-## 1 Data Collection
+## Data Collection
 The data set used in the project is the [SpaceX Launch data](https://drive.google.com/file/d/1JsDQrujo-qdQPMIdjkXmkzmN8xQIQRig/view?usp=sharing).
 
 The data set contains information about different flights including date, launch site, booster version and more.
