@@ -102,3 +102,7 @@ We will be performing web scraping to collect Falcon 9 historical launch records
 as dictionary keys.
 
 We parse the HTML tables and fill the dictionary keys with launch records from table rows, and finally we transform it into a dataframe.
+
+![Screenshot (161)](https://user-images.githubusercontent.com/86102231/147544733-7e925792-5529-4667-8c49-2509f6d53313.png)
+
+### To see the code and step by step process of Data Collection using Web Scrapping [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%201/Data%20Collection/webscrapping.ipynb)
