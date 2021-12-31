@@ -279,3 +279,8 @@ KNN and SVM models have a validation set accuracy of 83% and an out of sample ac
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828931-f33f5e08-4f57-489d-b501-d932055e2568.png)
 
 # Launch Sites Proximities Analysis
+
+## Launch sites Marking
+
+
+![image](https://user-images.githubusercontent.com/86102231/147829437-f8884801-aa10-4d50-b75a-9287cc3283d8.png)
