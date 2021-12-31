@@ -306,17 +306,17 @@ The blue line represents the distance between the lunch site and the closest coa
 
 Showing the screenshot of launch success count for all sites, in a Piechart.
 
-
+![Screenshot (199)](https://user-images.githubusercontent.com/86102231/147830906-4bed284d-465b-4ec9-8ecd-68863f366dfa.png)
 
 Showing the screenshot of option
 
-
+![Screenshot (200)](https://user-images.githubusercontent.com/86102231/147830910-feea489d-fe67-43de-a07b-f0a0de5978f6.png)
 
 ## Piechart for The Highest Launch Success Site
 
 Showing the screenshot of the piechart for the launch site with highest launch success ratio.
 
-
+![Screenshot (201)](https://user-images.githubusercontent.com/86102231/147830912-abd00634-0e15-4399-ac8b-2a16d976df7a.png)
 
 The highest total launches is KSC LC-39A site with 41.7%.
 
@@ -324,18 +324,18 @@ The highest total launches is KSC LC-39A site with 41.7%.
 
 ### For 0 kg payload
 
-
+![Screenshot (202)](https://user-images.githubusercontent.com/86102231/147830916-c1e33518-146a-4d00-a58a-8421937be995.png)
 
 ### For 2500 kg payload
 
-
+![Screenshot (203)](https://user-images.githubusercontent.com/86102231/147830919-1f80a8cb-c419-45b1-b764-aebe9a066fb0.png)
 
 ### For 5000 kg payload
 
-
+![Screenshot (204)](https://user-images.githubusercontent.com/86102231/147830921-1f11f6c6-6559-44ee-bc5b-0b2e2fb75477.png)
 
 ### For 7500 kg payload
 
-
+![Screenshot (205)](https://user-images.githubusercontent.com/86102231/147830924-ae2cdcec-6d1d-4a9c-ab99-9450dbe48ea5.png)
 
 # Predictive Analysis (Classification)
