@@ -339,3 +339,25 @@ The highest total launches is KSC LC-39A site with 41.7%.
 ![Screenshot (205)](https://user-images.githubusercontent.com/86102231/147830924-ae2cdcec-6d1d-4a9c-ab99-9450dbe48ea5.png)
 
 # Predictive Analysis (Classification)
+
+## Classification Accuracy
+
+
+
+## Confusion Matrix
+These two graphs represent the confusion matrix for both the SVM and KNNmodels.
+
+
+
+
+These confusion matrices show the largest true positive and true negative values, as well as the least false positive and false negative values.
+
+# Conclusion
+
+Not all the data is important, the collected data may contain irrelevant columns and it is normal to drop them.
+
+Visualizing data is a good way of determining what features have the strongest effect.
+
+ SQL queries provide wider scope to explore datasets in comparison with traditional EDA.
+
+SVMand KNN models are the most reliable since they have the highest out of sample accuracy and f1-score.
