@@ -107,4 +107,18 @@ We parse the HTML tables and fill the dictionary keys with launch records from t
 
 ![Screenshot (161)](https://user-images.githubusercontent.com/86102231/147544733-7e925792-5529-4667-8c49-2509f6d53313.png)
 
-### To see the code and step by step process of Data Collection using Web Scrapping [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%201/Data%20Collection/webscrapping.ipynb)
+### To see the code and step by step process of Data Collection with Web Scrapping [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%201/Data%20Collection/webscrapping.ipynb)
+
+## Data Wrangling
+
+Exploratory data analysis is an important step while preprocessing data, it is useful to find some patterns in the data and determine what would be the label for training supervised models.
+
+This process was done in the following order:
+
+1. First thing to do is to identify the data types of the columns.
+
+2. Determine the number of values for each attribute.
+
+3. Calculate the percentage of the missing values.
+
+4. To determine the label, weapply zero/one hot encoding to the “Outcome” column to classify landing to either 1(Success) of 0 (Failure)
