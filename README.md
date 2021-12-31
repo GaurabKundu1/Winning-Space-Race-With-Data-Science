@@ -212,3 +212,69 @@ Launch site and the orbit type are the features with the largest effect on the o
 KNN and SVM models have a validation set accuracy of 83% and an out of sample accuracy of 77%.
 
 # Insights Drawn from Exploratory Data Analysis
+
+## Flight Number vs. Launch Site
+
+
+
+## Payload vs. Launch Site
+
+
+
+## Success Rate vs. Orbit Type
+
+
+
+## Flight Number vs. Orbit Type
+
+
+
+## Payload vs. Orbit Type
+
+
+
+## Launch Success Yearly Trend
+
+
+
+## All Launch Site Names
+
+
+
+## Launch Site Names Begin with 'CCA'
+
+
+
+## Total Payload Mass
+
+
+
+## Average Payload Mass by F9 v1.1
+
+
+
+## First Successful Ground Landing Date
+
+
+
+## Successful Drone Ship Landing with Payload between 4000 and 6000
+
+
+
+## Total Number of Successful and Failure Mission Outcomes
+
+
+
+## Boosters Carried Maximum Payload
+
+
+
+## 2015 Launch Records
+
+
+
+## Rank Landing Outcomes Between 2010-06-04 and 2017-03-20
+
+
+
+# 
