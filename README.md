@@ -1,8 +1,8 @@
 # Winning-Space-Race-With-Data-Science
 
 
-![tumblr_lo0uhsu5IC1qhp3olo1_500](https://user-images.githubusercontent.com/86102231/147546030-15970711-052f-43f9-a398-00ee8cdbac40.gif)
- <img src="https://user-images.githubusercontent.com/86102231/147546030-15970711-052f-43f9-a398-00ee8cdbac40.gif" width="500" height="280">
+
+ <img src="https://user-images.githubusercontent.com/86102231/147546030-15970711-052f-43f9-a398-00ee8cdbac40.gif" width="1500" height="280">
 
 ### Date: 12 th of October 2021  
 
