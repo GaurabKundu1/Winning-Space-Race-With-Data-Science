@@ -122,3 +122,83 @@ This process was done in the following order:
 3. Calculate the percentage of the missing values.
 
 4. To determine the label, weapply zero/one hot encoding to the “Outcome” column to classify landing to either 1(Success) of 0 (Failure)
+
+### To see the code and step by step process of Data Wrangling [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%201/Data%20Wrangling/labs-jupyter-spacex-Data%20wrangling.ipynb)
+
+## EDA with SQL 
+
+In order to better understand the datasets, we ran the following SQL queries:
+
+1. Display the names of the unique launch sites in the space mission.
+
+2. Display 5 records where launch sites begin with the string 'CCA'.
+
+3. Display the total payload mass carried by boosters launched by NASA (CRS).
+
+4. Display average payload mass carried by booster version F9 v1.1 .
+
+5. List the date when the first successful landing outcome in ground pad was achieved.
+
+6. List the names of the boosters which have success in drone ship and have payload mass greater than 4000 but less than 6000.
+
+7. List the total number of successful and failure mission outcomes.
+
+8. List the names of the booster versions which have carried the maximum payload mass. Use a subquery.
+
+9. List the failed landing outcomes in drone ship, their booster versions, and launch site names for in year 2015.
+
+10. Rank the count of landing outcomes (such as Failure (drone ship) or Success (ground pad)) between the date 2010-06-04 and 2017-03-20, in descending order.
+
+### To see the code and step by step process of EDA With SQL [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%202/Exploratory%20Analysis%20Using%20SQL/jupyter-labs-eda-sql-coursera.ipynb)
+
+## EDA with Data Visualization
+
+In order to understand the relations between different features, we visualize the data by plotting scatter plots, bar charts and line charts, it helps finding hidden patterns in data and gain insights about the dataset.
+
+1. Pay load mass against the Flight number.
+
+2. Lunch site against the Flight number.
+
+3. Lunch site against the Pay load mass.
+
+4. Orbit type against Class success rate.
+
+5. Flight number against Orbit type.
+
+6. Orbit type against the Pay load mass.
+
+7. launch success yearly trend.
+
+### To see the code and step by step process of EDA with Data Visualization [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%202/Exploratory%20Analysis%20Using%20Pandas%20and%20Matplotlib/jupyter-labs-eda-dataviz.ipynb)
+
+## Build an Interactive Map with Folium
+
+Here, we complete the interactive visual analytics using Folium.
+
+First we create Folium map object, with an initial center location around Nasa Johnson space center, Houston-Texas.
+
+ We add a circle on the map for each lunch site from the dataset by creating a folium circle and folium marker, now the lunch sites are marked on the map which means we can see which one is proximate to the equator line or close to a coastline.
+
+ In order to mark the success/failure lunches, we create a marker on the map for each launch record from the dataset, a green marker indicates a successful lunching and a red one indicates failure,
+
+we need to explore and analyze the proximities of launch sites, we calculate the distance between the launch site and its proximities and then we draw a polyline between them.
+
+To see the code and step by step process of Build an Interactive Map with Folium [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%203/Interactive%20Visual%20Analytics%20and%20Dashboard/lab_jupyter_launch_site_location.ipynb)
+
+## Predictive Analysis (Classification)
+
+Now that we finished the exploratory analysis, the next step is to determine the training labels and build a predictor using machine learning algorithms. After using the ‘Class’ column as the label, first thing to do is normalizing the data. We split the normalized data into test/train sets, The training data is divided into validation data, a second set used for training data.
+
+For the model development phase, we use the following algorithms:
+
+1. Logistic regression
+
+2. Support vector machine
+
+3. Decision trees
+
+4. K nearest neighbor
+
+We build a grid search object for each of the algorithms and f i t it to find the best parameters of the model(hyper parameters tuning), then we choose the most accurate model.
+
+To see the code and step by step process of Predictive Analysis (Classification) [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%204/Predictive%20Analysis%20(Classification)/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
