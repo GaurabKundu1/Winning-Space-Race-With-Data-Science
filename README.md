@@ -301,8 +301,40 @@ The blue line represents the distance between the lunch site and the closest coa
 # Build A Dashboard with Plotly Dash
 
 
+## Launch Success Dashboard for All Sites
+
+Showing the screenshot of launch success count for all sites, in a Piechart.
 
 
 
+Showing the screenshot of option
 
 
+
+## Piechart for The Highest Launch Success Site
+
+Showing the screenshot of the piechart for the launch site with highest launch success ratio.
+
+
+
+The highest total launches is KSC LC-39A site with 41.7%.
+
+## Payload Vs Launch Outcome
+
+### For 0 kg payload
+
+
+
+### For 2500 kg payload
+
+
+
+### For 5000 kg payload
+
+
+
+### For 7500 kg payload
+
+
+
+# Predictive Analysis (Classification)
