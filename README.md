@@ -342,13 +342,13 @@ The highest total launches is KSC LC-39A site with 41.7%.
 
 ## Classification Accuracy
 
-
+![Screenshot (201)](https://user-images.githubusercontent.com/86102231/147831308-07dbb446-e71c-4902-b7dd-648a4912cf9e.png)
 
 ## Confusion Matrix
+
 These two graphs represent the confusion matrix for both the SVM and KNNmodels.
 
-
-
+![Screenshot (202)](https://user-images.githubusercontent.com/86102231/147831309-0725ba69-130d-4685-9f0c-5ecc0dd2fa62.png)
 
 These confusion matrices show the largest true positive and true negative values, as well as the least false positive and false negative values.
 
