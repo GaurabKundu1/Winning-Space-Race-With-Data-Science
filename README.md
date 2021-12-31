@@ -4,8 +4,9 @@
 
 ### Date: 12 th of October 2021  
 
-
 ## Author : [GAURAB KUNDU](https://www.linkedin.com/in/gaurab-kundu-020803) 
+
+### This Project is the Applied Data Science Capstone Project of the IBM Data Science Professional Certificate
 
 # Project Description
 
