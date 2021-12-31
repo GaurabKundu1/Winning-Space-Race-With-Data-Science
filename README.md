@@ -224,11 +224,11 @@ KNN and SVM models have a validation set accuracy of 83% and an out of sample ac
 
 ## Success Rate vs. Orbit Type
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828184-62cf26f3-d5fb-4138-88f9-c907e4ca34f8.png)
 
 ## Flight Number vs. Orbit Type
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828246-c2db80ad-bb4d-4a29-9b76-4ec873bbc27e.png)
 
 ## Payload vs. Orbit Type
 
