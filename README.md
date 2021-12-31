@@ -300,7 +300,7 @@ The blue line represents the distance between the lunch site and the closest coa
 
 # Build A Dashboard with Plotly Dash
 
-### To See the code for making the Plotly Dash App Dashboard [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%204/SpaceX_plotly.py) 
+### To See the code for making the Dashboard using Plotly Dash [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%204/SpaceX_plotly.py) 
 
 ## Launch Success Dashboard for All Sites
 
