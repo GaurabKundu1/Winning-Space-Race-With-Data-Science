@@ -210,3 +210,4 @@ Success rate increased noticeably from 2013 and on.
 Launch site and the orbit type are the features with the largest effect on the outcome.
 
 KNN and SVM models have a validation set accuracy of 83% and an out of sample accuracy of 77%.
+
