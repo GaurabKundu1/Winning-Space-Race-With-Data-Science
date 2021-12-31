@@ -211,3 +211,4 @@ Launch site and the orbit type are the features with the largest effect on the o
 
 KNN and SVM models have a validation set accuracy of 83% and an out of sample accuracy of 77%.
 
+# Insights Drawn from Exploratory Data Analysis
