@@ -1,7 +1,5 @@
 # Winning-Space-Race-With-Data-Science
 
-
-
  <img src="https://user-images.githubusercontent.com/86102231/147546030-15970711-052f-43f9-a398-00ee8cdbac40.gif" width="1500" height="500">
 
 ### Date: 12 th of October 2021  
