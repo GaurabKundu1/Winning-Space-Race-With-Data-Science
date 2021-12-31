@@ -24,7 +24,7 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 |          4          |                       [Hardware and Software Requirments](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#hardware-and-software-requirments)                         |
 |          5          |                                  [Methodology](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#methodology)                                    |
 |          6          |                  [Insights Drawn from Exploratory Data Analysis](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#insights-drawn-from-exploratory-data-analysis)                  |
-|          7          |                        Launch Sites Proximities Analysis                        |
+|          7          |                        [Launch Sites Proximities Analysis](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#launch-sites-proximities-analysis)                        |
 |          8          |                       Build A Dashboard with Plotly Dash                        |
 |          9          |                       Predictive Analysis Classification                        |
 |          10         |                                  Conclusion                                     |
