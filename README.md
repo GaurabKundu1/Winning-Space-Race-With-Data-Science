@@ -183,7 +183,7 @@ First we create Folium map object, with an initial center location around Nasa J
 
 we need to explore and analyze the proximities of launch sites, we calculate the distance between the launch site and its proximities and then we draw a polyline between them.
 
-To see the code and step by step process of Build an Interactive Map with Folium [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%203/Interactive%20Visual%20Analytics%20and%20Dashboard/lab_jupyter_launch_site_location.ipynb)
+### To see the code and step by step process of Build an Interactive Map with Folium [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%203/Interactive%20Visual%20Analytics%20and%20Dashboard/lab_jupyter_launch_site_location.ipynb)
 
 ## Predictive Analysis (Classification)
 
@@ -201,7 +201,7 @@ For the model development phase, we use the following algorithms:
 
 We build a grid search object for each of the algorithms and f i t it to find the best parameters of the model(hyper parameters tuning), then we choose the most accurate model.
 
-To see the code and step by step process of Predictive Analysis (Classification) [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%204/Predictive%20Analysis%20(Classification)/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
+### To see the code and step by step process of Predictive Analysis (Classification) [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%204/Predictive%20Analysis%20(Classification)/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
 
 ## Results
 
@@ -232,50 +232,50 @@ KNN and SVM models have a validation set accuracy of 83% and an out of sample ac
 
 ## Payload vs. Orbit Type
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828392-82371725-d023-47a2-86a8-54f2a95d1f99.png)
 
 ## Launch Success Yearly Trend
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828424-7d048f28-dc00-4a83-8d66-cd910a1dfe44.png)
 
 ## All Launch Site Names
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828488-a2a97304-f1a2-497f-b1e0-15eb63da4442.png)
 
 ## Launch Site Names Begin with 'CCA'
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828523-6ed380cc-bc9b-4bf3-b4c5-71756a9c59b7.png)
 
 ## Total Payload Mass
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828560-860af98b-a3f0-4869-9f8b-4241f21fec88.png)
 
 ## Average Payload Mass by F9 v1.1
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828627-f9e7b159-bfa9-4e6f-a274-47ffe3e5ef33.png)
 
 ## First Successful Ground Landing Date
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828696-d3341d15-a7c6-4898-b78a-36e02fa53b80.png)
 
 ## Successful Drone Ship Landing with Payload between 4000 and 6000
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828733-fd4a280c-cfde-48c6-8dac-f81d847966d7.png)
 
 ## Total Number of Successful and Failure Mission Outcomes
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828804-5bf8c641-c1c9-4223-865d-7e44b87dd878.png)
 
 ## Boosters Carried Maximum Payload
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828862-54033de7-3fc1-4100-92e5-9915638e929f.png)
 
 ## 2015 Launch Records
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828896-060b86df-093c-4871-bd59-238582a946d9.png)
 
 ## Rank Landing Outcomes Between 2010-06-04 and 2017-03-20
 
-
+![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828931-f33f5e08-4f57-489d-b501-d932055e2568.png)
 
 # Launch Sites Proximities Analysis
