@@ -92,8 +92,8 @@ We’ll be collecting launch data from SpaceX API, First we request launch data 
 
 With the help of some helper functions, we save the responses into a dictionary, and then we transform it into a dataframe, which is our data set.
 
- ![Screenshot (159)](https://user-images.githubusercontent.com/86102231/147389192-9446f2a8-80db-468a-afcf-1de89a327010.png)
-
+ <img src= "https://user-images.githubusercontent.com/86102231/147389192-9446f2a8-80db-468a-afcf-1de89a327010.png" width="1000" height="500">
+ 
 ### To see the code and step by step process of Data Collection using SpaceX API [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%201/Data%20Collection/jupyter-labs-spacex-data-collection-api.ipynb)
 
 ### Data Collection - Web Scrapping
@@ -102,8 +102,6 @@ We will be performing web scraping to collect Falcon 9 historical launch records
 as dictionary keys.
 
 We parse the HTML tables and fill the dictionary keys with launch records from table rows, and finally we transform it into a dataframe.
-
-![Screenshot (161)](https://user-images.githubusercontent.com/86102231/147544733-7e925792-5529-4667-8c49-2509f6d53313.png)
 
 <img src= "https://user-images.githubusercontent.com/86102231/147544733-7e925792-5529-4667-8c49-2509f6d53313.png" width="1000" height="500">
 
