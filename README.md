@@ -288,9 +288,13 @@ The markers on this maps show the launch site locations on the map.
 
 ## Mark the success/failed launches for each site on the map
 
+A green marker represents a successful landing outcome, while a red one represents failure.
+
 ![Screenshot (193)](https://user-images.githubusercontent.com/86102231/147829822-4ee6b005-44f1-49ad-bbc9-561c76ce8f20.png)
 
 ## Distances between a launch site to its proximities
+
+The blue line represents the distance between the lunch site and the closest coastline.
 
 ![Screenshot (194)](https://user-images.githubusercontent.com/86102231/147829825-349daf2a-e65c-4cfd-b3c1-e4afaf356399.png)
 
