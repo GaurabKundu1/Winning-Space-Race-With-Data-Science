@@ -177,9 +177,9 @@ Here, we complete the interactive visual analytics using Folium.
 
 First we create Folium map object, with an initial center location around Nasa Johnson space center, Houston-Texas.
 
- We add a circle on the map for each lunch site from the dataset by creating a folium circle and folium marker, now the lunch sites are marked on the map which means we can see which one is proximate to the equator line or close to a coastline.
+ We add a circle on the map for each launch site from the dataset by creating a folium circle and folium marker, now the launch sites are marked on the map which means we can see which one is proximate to the equator line or close to a coastline.
 
- In order to mark the success/failure lunches, we create a marker on the map for each launch record from the dataset, a green marker indicates a successful lunching and a red one indicates failure,
+ In order to mark the success/failure launches, we create a marker on the map for each launch record from the dataset, a green marker indicates a successful lunching and a red one indicates failure,
 
 we need to explore and analyze the proximities of launch sites, we calculate the distance between the launch site and its proximities and then we draw a polyline between them.
 
