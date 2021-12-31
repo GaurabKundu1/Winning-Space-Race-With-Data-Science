@@ -360,4 +360,4 @@ Visualizing data is a good way of determining what features have the strongest e
 
  SQL queries provide wider scope to explore datasets in comparison with traditional EDA.
 
-SVMand KNN models are the most reliable since they have the highest out of sample accuracy and f1-score.
+SVM and KNN models are the most reliable since they have the highest out of sample accuracy and f1-score.
