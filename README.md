@@ -25,7 +25,7 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 |          5          |                                  [Methodology](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#methodology)                                    |
 |          6          |                  [Insights Drawn from Exploratory Data Analysis](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#insights-drawn-from-exploratory-data-analysis)                  |
 |          7          |                        [Launch Sites Proximities Analysis](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#launch-sites-proximities-analysis)                        |
-|          8          |                       Build A Dashboard with Plotly Dash                        |
+|          8          |                       [Build A Dashboard with Plotly Dash](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/README.md#build-a-dashboard-with-plotly-dash)                        |
 |          9          |                       Predictive Analysis Classification                        |
 |          10         |                                  Conclusion                                     |
 
@@ -299,7 +299,6 @@ The blue line represents the distance between the lunch site and the closest coa
 ![Screenshot (194)](https://user-images.githubusercontent.com/86102231/147829825-349daf2a-e65c-4cfd-b3c1-e4afaf356399.png)
 
 # Build A Dashboard with Plotly Dash
-
 
 
 
