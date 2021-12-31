@@ -282,5 +282,11 @@ KNN and SVM models have a validation set accuracy of 83% and an out of sample ac
 
 ## Launch sites Marking
 
+The markers on this maps show the launch site locations on the map.
 
-![image](https://user-images.githubusercontent.com/86102231/147829437-f8884801-aa10-4d50-b75a-9287cc3283d8.png)
+
+
+
+
+
+
