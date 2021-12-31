@@ -202,3 +202,11 @@ For the model development phase, we use the following algorithms:
 We build a grid search object for each of the algorithms and f i t it to find the best parameters of the model(hyper parameters tuning), then we choose the most accurate model.
 
 To see the code and step by step process of Predictive Analysis (Classification) [CLICK HERE](https://github.com/GaurabKundu1/IBM-Data-Science-Professional-Certificate-Capstone-Project-Winning-Space-Race-With-Data-Science/blob/main/Week%204/Predictive%20Analysis%20(Classification)/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
+
+## Results
+
+Success rate increased noticeably from 2013 and on.
+
+Launch site and the orbit type are the features with the largest effect on the outcome.
+
+KNN and SVM models have a validation set accuracy of 83% and an out of sample accuracy of 77%.
