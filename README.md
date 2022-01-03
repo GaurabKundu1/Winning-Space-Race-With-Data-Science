@@ -11,7 +11,9 @@
 <p align='center'> 
 <img src="https://user-images.githubusercontent.com/86102231/147832455-de717f12-9b1f-4aa9-ba1a-56df633d4458.png" width= "200" height= "200">
 </p>
- 
+ <p align='right'> 
+<img src="https://user-images.githubusercontent.com/86102231/147951343-6541c551-5de7-4e6d-a5bc-5408ba2c788f.png" width= "200" height= "200">
+</p>
 # Project Description
 
 In this project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
