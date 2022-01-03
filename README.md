@@ -9,8 +9,8 @@
 ### This Project is the Applied Data Science Capstone Project of the IBM Data Science Professional Certificate
 
 <p align='center'> 
-<img src="https://user-images.githubusercontent.com/86102231/147832455-de717f12-9b1f-4aa9-ba1a-56df633d4458.png" width= "200" height= "200"> <p align='right'> <img src="https://user-images.githubusercontent.com/86102231/147951343-6541c551-5de7-4e6d-a5bc-5408ba2c788f.png" width= "200" height= "200">
-</p> </p>
+<img src="https://user-images.githubusercontent.com/86102231/147832455-de717f12-9b1f-4aa9-ba1a-56df633d4458.png" width= "200" height= "200"> 
+</p>
 
 # Project Description
 
