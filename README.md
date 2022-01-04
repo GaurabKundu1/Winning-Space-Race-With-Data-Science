@@ -220,6 +220,10 @@ KNN and SVM models have a validation set accuracy of 83% and an out of sample ac
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147827883-ab56d138-5a96-45d0-b0ba-4eab13334e36.png)
 
+Flight with number range 0 to 20 and range 40 to 90 are more on site CCAPS SLC 40.
+
+Flight with number range 21 to 39 is more on site KSC LC 39A.
+
 ## Payload vs. Launch Site
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828033-ba762df8-2e09-4490-8d46-3e890bb277e9.png)
