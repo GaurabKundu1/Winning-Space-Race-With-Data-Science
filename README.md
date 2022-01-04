@@ -228,10 +228,17 @@ Flight with number range 21 to 39 is more on site KSC LC 39A.
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828033-ba762df8-2e09-4490-8d46-3e890bb277e9.png)
 
+More data spread on payloas mass range 0 to 8000 kg.
+
+When the payload is in the range of 15000, it looks more likely to land successfully.
 
 ## Success Rate vs. Orbit Type
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828184-62cf26f3-d5fb-4138-88f9-c907e4ca34f8.png)
+
+O rbit type ES L1, GEO, HEO, and SSO have the highest success rate, which is 1, that means it always succeeds.
+
+Orbit type GTO have the lowest success rate, which is 0.5.
 
 ## Flight Number vs. Orbit Type
 
