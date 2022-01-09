@@ -228,6 +228,8 @@ Flight with number range 21 to 39 is more on site KSC LC 39A.
 
 ## Payload vs. Launch Site
 
+Scatter plot of Payload vs. Launch Site
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828033-ba762df8-2e09-4490-8d46-3e890bb277e9.png)
 
 More data spread on payloas mass range 0 to 8000 kg.
@@ -235,6 +237,8 @@ More data spread on payloas mass range 0 to 8000 kg.
 When the payload is in the range of 15000, it looks more likely to land successfully.
 
 ## Success Rate vs. Orbit Type
+
+Show a bar chart for the success rate of each orbit type
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828184-62cf26f3-d5fb-4138-88f9-c907e4ca34f8.png)
 
@@ -244,55 +248,117 @@ Orbit type GTO have the lowest success rate, which is 0.5.
 
 ## Flight Number vs. Orbit Type
 
+Show a scatter point of Flight number vs. Orbit type
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828246-c2db80ad-bb4d-4a29-9b76-4ec873bbc27e.png)
+
+Orbit type LEO, ISS, PO, and GTO have more data spread on flight number range 0 to 60 .
 
 ## Payload vs. Orbit Type
 
+Show a scatter point of payload vs. orbit type
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828392-82371725-d023-47a2-86a8-54f2a95d1f99.png)
+
+Orbit type VLEO that has high success rate also has heavy payload.
+
+There is a possibility that the heavier the payload, the higher the probability of success.
 
 ## Launch Success Yearly Trend
 
+Show a line chart of yearly average success rate
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828424-7d048f28-dc00-4a83-8d66-cd910a1dfe44.png)
+
+2019 is the year that has the highest success rate.
+
+2010, 2012, and 2014 are the year that have lowest success rate.
 
 ## All Launch Site Names
 
+N ames of the unique launch sites
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828488-a2a97304-f1a2-497f-b1e0-15eb63da4442.png)
+
+There is 4 unique launch site.
+
+That’s mean there is 4 kind of launch site too.
 
 ## Launch Site Names Begin with 'CCA'
 
+5 records where launch sites with 'CCA'
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828523-6ed380cc-bc9b-4bf3-b4c5-71756a9c59b7.png)
+
+There is 5 launch site begin with CCA which mission outcome all success.
+
+There is 4 launch site that sponsored by NASA.
 
 ## Total Payload Mass
 
+Calculate the total payload carried by boosters from NASA
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828560-860af98b-a3f0-4869-9f8b-4241f21fec88.png)
+
+The total payload carried by booster from NASA is 45.596 kg.
 
 ## Average Payload Mass by F9 v1.1
 
+Calculate the average payload mass carried by booster version F9 v1.1
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828627-f9e7b159-bfa9-4e6f-a274-47ffe3e5ef33.png)
+
+The average payload mass shown is 2.928 kg for 90 payload mass withtotal payload is 45.596 kg.
 
 ## First Successful Ground Landing Date
 
+Find the dates of the first successful landing outcome on ground pad
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828696-d3341d15-a7c6-4898-b78a-36e02fa53b80.png)
+
+T he first successful landing outcome on ground ad at 2015 12 22 .
 
 ## Successful Drone Ship Landing with Payload between 4000 and 6000
 
+List the names of boosters which have successfully landed on drone ship and had payload mass greater than 4000 but less than 6000
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828733-fd4a280c-cfde-48c6-8dac-f81d847966d7.png)
+
+There is 4 booster version that successfully landed on drone ship and had payload range 4000 to 6000.
 
 ## Total Number of Successful and Failure Mission Outcomes
 
+Calculate the total number of successful and failure mission outcomes
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828804-5bf8c641-c1c9-4223-865d-7e44b87dd878.png)
+
+The total of successful mission outcome is 100 and failure in flight is 1.
 
 ## Boosters Carried Maximum Payload
 
+List the names of the booster which have carried the maximum payload mass
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828862-54033de7-3fc1-4100-92e5-9915638e929f.png)
+
+There is 12 booster version type that carried maximum payload mass.
 
 ## 2015 Launch Records
 
+List the failed landing_outcomes in drone ship, their booster versions, and launch site names for in year 2015
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828896-060b86df-093c-4871-bd59-238582a946d9.png)
+
+The failed landing outcomes in drone ship is always happen in CCAFS LC 40 launch site.
+
+There are 2 type of booster that used when failed landing outcomes in drone ship.
 
 ## Rank Landing Outcomes Between 2010-06-04 and 2017-03-20
 
+Rank the count of landing outcomes (such as Failure (drone ship) or Success (ground pad)) between the date 2010 06 04 and 2017 03 20, in descending order
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147828931-f33f5e08-4f57-489d-b501-d932055e2568.png)
+
+There are 9 landing outcomes that success ground pad and 5 landing outcomes that failure drone ship.
 
 # Launch Sites Proximities Analysis
 
@@ -371,9 +437,6 @@ These confusion matrices show the largest true positive and true negative values
 # Conclusion
 
 Not all the data is important, the collected data may contain irrelevant columns and it is normal to drop them.
-
 Visualizing data is a good way of determining what features have the strongest effect.
-
- SQL queries provide wider scope to explore datasets in comparison with traditional EDA.
-
+SQL queries provide wider scope to explore datasets in comparison with traditional EDA.
 SVM and KNN models are the most reliable since they have the highest out of sample accuracy and f1-score.
