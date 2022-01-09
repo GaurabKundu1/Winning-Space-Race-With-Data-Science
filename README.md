@@ -218,6 +218,8 @@ KNN and SVM models have a validation set accuracy of 83% and an out of sample ac
 
 ## Flight Number vs. Launch Site
 
+Scatter plot of Flight Number vs. Launch Site
+
 ![Screenshot (189)](https://user-images.githubusercontent.com/86102231/147827883-ab56d138-5a96-45d0-b0ba-4eab13334e36.png)
 
 Flight with number range 0 to 20 and range 40 to 90 are more on site CCAPS SLC 40.
