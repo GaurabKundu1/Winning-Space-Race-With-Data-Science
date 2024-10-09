@@ -33,47 +33,42 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 
 # Executive Summary
 
-The project is focused on collecting data by web scrapping or API calls, perform EDA and visualize the data before building a classification machine learning models to predict whether the landing will succeed or not.
+This project utilized various data collection methods, including web scraping and API calls, to analyze SpaceX launch data. Through Exploratory Data Analysis (EDA) and machine learning, the goal was to develop a classification model that predicts whether the Falcon 9 first stage will successfully land.
 
-The results are the plots that show relation of two variables, dashboard, map, and the best classification model is decision tree to predict first stage will be successful or not.
+The results showed that decision trees were the best model for predicting the success of the landings.
 
 
 # Introduction
 
-In the age of commercial space travelling, SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.
-In this Data Science project we will predict if the Falcon 9 first stage will land successfully, therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+In the era of commercial space travel, reducing costs is crucial. SpaceX advertises its Falcon 9 rocket launches at a fraction of the cost of other providers, largely due to the reuse of the first stage. By predicting the success of these landings, companies can optimize their bids and potentially compete with SpaceX.
 
 
 # Objective
 
 ## Background
- Reviewing Space X's success in making Falcon 9 rockets with very minimum costs.
+ The project analyzes SpaceX’s launch data to explore how reusable rockets minimize launch costs and how these insights can be applied by other companies.
 
- We can analyze SpaceX's data to get the minimum cost to launch a successful rocket for our company.
 ## Problem
- Predicting whether the first stage land bases on features given.
-
- Analyzing the features that affect landing success.
+ The key problem is predicting the landing success of the Falcon 9 first stage based on specific flight features.
+ 
 ## Question for Analysis
- Will the first stage land based on features given?
-
- Will the features affect landing success?
+ - Can we predict the success of the Falcon 9 first-stage landing?
+ - What features influence the success of these landings?
 
 
 # Hardware and Software Requirments
 
 ## Hardware
-In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data. 
+The project utilizes IBM Cloud Pack for Data, requiring only a stable internet connection.
+
 ## Software
-We are going to use IBM Watson Studio for this project.
+- IBM Watson Studio
 
-In case of local machine We are going to use the following softwares in this project :
-
-Programming Language : [Python](https://www.python.org/)
-
-IDE : [Jupyter Notebook](https://jupyter.org/)
-
-Packages : [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/), [BeautifulSoup](https://pypi.org/project/beautifulsoup4/).
+- For local execution:
+  
+  - Programming Language: Python
+  - IDE: Jupyter Notebook
+  - Libraries/Packages: Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, BeautifulSoup
 
 
 # Methodology
